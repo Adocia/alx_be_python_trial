@@ -1,4 +1,3 @@
-
 difference_results = number1 - number2
 print(difference_results)
 5
